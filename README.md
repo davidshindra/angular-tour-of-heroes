@@ -8,7 +8,7 @@ This follows the Angular Tour of heroes documentation project.
 `npm i`
 `npm serve -o`
 
-This will run a development server on http:localhost:4200 and open the page in your default browser.
+This will run a development server on http://localhost:4200 and open the page in your default browser.
 
 
 ## Further help
